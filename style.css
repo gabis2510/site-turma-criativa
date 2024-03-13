@@ -1,14 +1,14 @@
-. cabecalho {
-    background-color: deeppink;
-    color:aqua;
-    display:flex;
-    justify-content: space-around;
+body {
+     background: pink
 }
 
-.cabecalho-imagem{
-    width: 20%;
-
+h1 {
+     texte-aling: center
 }
 
-.cabecalho-lista-item
-    display: inline-block
+p  {
+     text-align: center;
+}
+
+strong {
+     color: cyan;
