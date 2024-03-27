@@ -6,7 +6,7 @@ h2 {margin-left: 600px;}
 h3{margin-left: 610px;}
 p  {
 text-align: center;
-font-family: Brush Script MT, Brush Script Std, cursive;
+font-variation-settings: 'opsz' 16;
 }
 
 img{text-align: center;}
