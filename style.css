@@ -2,10 +2,8 @@ body {
      background: rgba(255, 192, 203, 0.74)
 }
 
-h2 {
-     margin-left: 600px;
-}
-
+h2 {margin-left: 600px;}
+h3{margin-left: 600px;}
 p  {
 text-align: center;
 font-family: Brush Script MT, Brush Script Std, cursive;
