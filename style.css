@@ -1,6 +1,6 @@
-body {
-     background: rgba(255, 192, 203, 0.74)
-}
+body {margin: 100px,aqua;
+ background: rgba(255, 192, 203, 0.74)}
+
 
 h2 {margin-left: 600px;}
 h3{margin-left: 610px;}
